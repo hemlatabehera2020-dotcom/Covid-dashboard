@@ -1,3 +1,5 @@
+In this i use Power BI tool for creating the dashboard.
+
 📊Country-Wise COVID-19 Dashboard — Overview
 
 This dashboard visualizes global COVID-19 data aggregated by WHO regions. It provides quick insights into case severity, recovery progress, and geographical spread.
